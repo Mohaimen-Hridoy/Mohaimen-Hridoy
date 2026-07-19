@@ -4,8 +4,9 @@
   <img src="images/profile.jpg" width="130" height="130" style="border-radius:50%;object-fit:cover;" alt="Mohaimen Hridoy" />
 </td>
 <td>
-  <h1>Hi 👋, I'm Mohaimen Hridoy</h1>
-  <h3>CSE Student at MIST | Full-Stack Developer</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=false&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohaimen+Hridoy;CSE+Student+at+MIST;Full-Stack+Developer)](https://git.io/typing-svg)
+
 </td>
 </tr>
 </table>
@@ -21,9 +22,10 @@
 
 ### 🧑‍💻 About Me
 
+I'm a Computer Science & Engineering student at MIST, Bangladesh, focused on full-stack and backend development. I enjoy turning ideas into working products — from mobile apps to personal web projects.
+
 - 🔭 Currently working on **Jolshiri Smart City** — a Flutter-based mobile app
 - 🌱 Currently deepening my skills in **Full-Stack Web Development** (React, Node.js, TypeScript)
-- 💻 Building projects with **JavaScript, TypeScript & React**
 - 💬 Ask me about anything web dev related, happy to help
 - 📫 Reach me at **mohaimenhridoy@gmail.com**
 - 🌐 Portfolio: **[mohaimenhridoy.vercel.app](https://mohaimenhridoy.vercel.app/)**
@@ -47,11 +49,31 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nodejs,html,css,tailwind,git,github,vscode,mongodb,express" alt="skills" />
-</p>
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend & Tools**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
