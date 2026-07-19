@@ -49,9 +49,10 @@
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| Jolshiri Smart City | Smart city mobile app with a custom UI | Flutter, Dart |
 | [Portfolio Website](https://mohaimenhridoy.vercel.app/) | Personal portfolio with animations | Vite, JavaScript |
 | [devpulse](https://github.com/Mohaimen-Hridoy/devpulse) | Developer-focused project | TypeScript |
-| [XPSC Problem Solving](https://github.com/Mohaimen-Hridoy/XPSC-problem-Solving) | Competitive programming practice | C++ |
+| [XPSC Problem Solving](https://github.com/Mohaimen-Hridoy/XPSC-problem-Solving) | Problem solving practice | C++ |
 | [Assignments](https://github.com/Mohaimen-Hridoy/Assignments) | Academic assignments repo | TypeScript |
 
 ---
