@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img width="180" src="images/profile.jpg" alt="Mohaimen Hridoy" />
-</p>
-
-<p align="center">
   <a href="https://github.com/Mohaimen-Hridoy?tab=followers">
     <img src="https://img.shields.io/github/followers/Mohaimen-Hridoy?label=Followers&style=social" alt="followers" />
   </a>
