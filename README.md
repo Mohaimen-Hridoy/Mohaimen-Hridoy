@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mohaimen Hridoy</h1>
-<h3 align="center">CSE Student at MIST | Full-Stack Developer</h3>
+<table>
+<tr>
+<td width="150" align="center">
+  <img src="images/profile.jpg" width="130" height="130" style="border-radius:50%;object-fit:cover;" alt="Mohaimen Hridoy" />
+</td>
+<td>
+  <h1>Hi 👋, I'm Mohaimen Hridoy</h1>
+  <h3>CSE Student at MIST | Full-Stack Developer</h3>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohaimen-Hridoy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -12,9 +21,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm a **Computer Science & Engineering** student at **MIST**
+- 🔭 Currently working on **Jolshiri Smart City** — a Flutter-based mobile app
 - 🌱 Currently deepening my skills in **Full-Stack Web Development** (React, Node.js, TypeScript)
 - 💻 Building projects with **JavaScript, TypeScript & React**
+- 💬 Ask me about anything web dev related, happy to help
 - 📫 Reach me at **mohaimenhridoy@gmail.com**
 - 🌐 Portfolio: **[mohaimenhridoy.vercel.app](https://mohaimenhridoy.vercel.app/)**
 - ⚡ Fun fact: *I turn caffeine into code ☕ → 💻*
