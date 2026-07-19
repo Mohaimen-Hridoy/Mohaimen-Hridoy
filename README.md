@@ -1,7 +1,7 @@
 <table>
 <tr>
-<td width="150" align="center">
-  <img src="images/profile.jpg" width="130" height="130" style="border-radius:50%;object-fit:cover;" alt="Mohaimen Hridoy" />
+<td width="260" align="center">
+  <img src="images/profile.jpg" width="220" height="220" style="border-radius:50%;object-fit:cover;" alt="Mohaimen Hridoy" />
 </td>
 <td>
 
@@ -22,7 +22,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a Computer Science & Engineering student at MIST, Bangladesh, focused on full-stack and backend development. I enjoy turning ideas into working products — from mobile apps to personal web projects.
+I'm a Computer Science & Engineering student at MIST, Bangladesh, focused on fullstack development. I enjoy turning ideas into working products — from mobile apps to personal web projects.
 
 - 🔭 Currently working on **Jolshiri Smart City** — a Flutter-based mobile app
 - 🌱 Currently deepening my skills in **Full-Stack Web Development** (React, Node.js, TypeScript)
