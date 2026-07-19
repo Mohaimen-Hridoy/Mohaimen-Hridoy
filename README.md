@@ -46,6 +46,17 @@
 
 ---
 
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Portfolio Website](https://mohaimenhridoy.vercel.app/) | Personal portfolio with animations | Vite, JavaScript |
+| [devpulse](https://github.com/Mohaimen-Hridoy/devpulse) | Developer-focused project | TypeScript |
+| [XPSC Problem Solving](https://github.com/Mohaimen-Hridoy/XPSC-problem-Solving) | Competitive programming practice | C++ |
+| [Assignments](https://github.com/Mohaimen-Hridoy/Assignments) | Academic assignments repo | TypeScript |
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
