@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohaimen Hridoy</h1>
-<h3 align="center">CSE Student at MIST | Full-Stack Developer | Competitive Programmer</h3>
+<h3 align="center">CSE Student at MIST | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohaimen-Hridoy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -14,7 +14,6 @@
 
 - 🎓 I'm a **Computer Science & Engineering** student at **MIST**
 - 🌱 Currently deepening my skills in **Full-Stack Web Development** (React, Node.js, TypeScript)
-- 🧩 I love **Problem Solving** and **Competitive Programming** in **C++**
 - 💻 Building projects with **JavaScript, TypeScript & React**
 - 📫 Reach me at **mohaimenhridoy@gmail.com**
 - 🌐 Portfolio: **[mohaimenhridoy.vercel.app](https://mohaimenhridoy.vercel.app/)**
