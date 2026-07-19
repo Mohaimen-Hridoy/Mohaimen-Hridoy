@@ -1,15 +1,9 @@
-<table>
-<tr>
-<td width="260" align="center">
-  <img src="images/profile.jpg" width="220" height="220" style="border-radius:50%;object-fit:cover;" alt="Mohaimen Hridoy" />
-</td>
-<td>
+<img align="right" width="200" src="images/profile.jpg" alt="Mohaimen Hridoy" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=false&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohaimen+Hridoy;CSE+Student+at+MIST;Full-Stack+Developer)](https://git.io/typing-svg)
+<h1>Hi 👋, I'm Mohaimen Hridoy</h1>
+<h3>CSE Student at MIST | Fullstack Developer</h3>
 
-</td>
-</tr>
-</table>
+<br clear="right" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohaimen-Hridoy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
