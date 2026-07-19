@@ -74,14 +74,6 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohaimen-Hridoy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="trophies" />
-</p>
-
----
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
