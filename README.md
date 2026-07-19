@@ -1,77 +1,52 @@
-<img align="right" width="200" src="images/profile.jpg" alt="Mohaimen Hridoy" />
-
-<h1>Hi 👋, I'm Mohaimen Hridoy</h1>
-<h3>CSE Student at MIST | Fullstack Developer</h3>
-
-<br clear="right" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B+I'm+Mohaimen+Hridoy;CSE+Student+at+MIST;Full-Stack+Developer;Competitive+Programmer" alt="typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohaimen-Hridoy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img width="180" src="images/profile.jpg" alt="Mohaimen Hridoy" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Mohaimen-Hridoy?tab=followers">
     <img src="https://img.shields.io/github/followers/Mohaimen-Hridoy?label=Followers&style=social" alt="followers" />
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Mohaimen-Hridoy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="https://mohaimenhridoy.vercel.app/" target="_blank"><code>🌐 Portfolio</code></a> &nbsp;
+  <a href="https://github.com/Mohaimen-Hridoy" target="_blank"><code>💻 GitHub</code></a> &nbsp;
+  <a href="mailto:mohaimenhridoy@gmail.com"><code>📫 Email</code></a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+<h2 align="center">🧑‍💻 About Me</h2>
 
-I'm a Computer Science & Engineering student at MIST, Bangladesh, focused on fullstack development. I enjoy turning ideas into working products — from mobile apps to personal web projects.
+<p align="center">
+  I'm a <b>Computer Science &amp; Engineering</b> student at <b>MIST</b>, Bangladesh, focused on fullstack development.<br/>
+  I enjoy turning ideas into working products — from mobile apps to personal web projects.
+</p>
 
 - 🔭 Currently working on **Jolshiri Smart City** — a Flutter-based mobile app
 - 🌱 Currently deepening my skills in **Full-Stack Web Development** (React, Node.js, TypeScript)
+- 🧩 I love **Problem Solving** and **Competitive Programming** in **C++**
 - 💬 Ask me about anything web dev related, happy to help
 - 📫 Reach me at **mohaimenhridoy@gmail.com**
-- 🌐 Portfolio: **[mohaimenhridoy.vercel.app](https://mohaimenhridoy.vercel.app/)**
 - ⚡ Fun fact: *I turn caffeine into code ☕ → 💻*
 
 ---
 
-### 🌐 Connect with Me
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="left">
-  <a href="https://mohaimenhridoy.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
-  </a>
-  <a href="mailto:mohaimenhridoy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://github.com/Mohaimen-Hridoy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,dart,html,css,react,flutter,vite,nodejs,express,mongodb,git,vscode,vercel&perline=8" alt="skills" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Backend & Tools**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-### 📌 Featured Projects
+<h2 align="center">📌 Featured Projects</h2>
 
 | Project | Description | Stack |
 | --- | --- | --- |
@@ -83,7 +58,7 @@ I'm a Computer Science & Engineering student at MIST, Bangladesh, focused on ful
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="images/userstats.svg" alt="github stats" />
@@ -93,9 +68,21 @@ I'm a Computer Science & Engineering student at MIST, Bangladesh, focused on ful
   <img src="images/streak.svg" alt="github streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohaimen-Hridoy&theme=tokyo-night&hide_border=true&bg_color=1a1b27&line=70a5fd&color=70a5fd&point=bf91f3" alt="activity graph" />
+</p>
+
 ---
 
-### 🐍 Contribution Snake
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohaimen-Hridoy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="trophies" />
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mohaimen-Hridoy/Mohaimen-Hridoy/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
