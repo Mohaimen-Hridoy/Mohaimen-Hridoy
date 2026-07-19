@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Mohaimen-Hridoy&theme=tokyonight" alt="github streak" />
+  <img src="images/streak.svg" alt="github streak" />
 </p>
 
 ---
