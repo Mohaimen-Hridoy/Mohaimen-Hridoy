@@ -60,12 +60,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohaimen-Hridoy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="github stats" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohaimen-Hridoy&layout=compact&theme=tokyonight&langs_count=8" alt="top languages" />
+  <img src="images/userstats.svg" alt="github stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohaimen-Hridoy&theme=tokyonight" alt="github streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Mohaimen-Hridoy&theme=tokyonight" alt="github streak" />
 </p>
 
 ---
